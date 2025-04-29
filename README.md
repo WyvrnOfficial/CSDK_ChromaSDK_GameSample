@@ -51,6 +51,8 @@ See [https://wyvrn.com](https://wyvrn.com) for the latest documentation about th
 |----------|----------|---------|---------------|---------|---------------|---------|---------------|
 | **Encoding** | |  UNICODE |  | ASCII | | MULTI-BYTE | |
 || CHROMA C++ SDK  | [Git](https://github.com/WyvrnOfficial/CSDK_ChromaSDK_GameSample/tree/UNICODE_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/CSDK_ChromaSDK_GameSample/archive/refs/heads/UNICODE_WITHOUT_DLL.zip) | [Git](https://github.com/WyvrnOfficial/CSDK_ChromaSDK_GameSample/tree/ASCII_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/CSDK_ChromaSDK_GameSample/archive/refs/heads/ASCII_WITHOUT_DLL.zip) | [Git](https://github.com/WyvrnOfficial/CSDK_ChromaSDK_GameSample/tree/MULTIBYTE_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/CSDK_ChromaSDK_GameSample/archive/refs/heads/MULTIBYTE_WITHOUT_DLL.zip) |
+|| Chroma Unreal SDK    | [Git](https://github.com/WyvrnOfficial/Unreal_ChromaSDK/tree/UNICODE_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/Unreal_ChromaSDK/archive/refs/heads/UNICODE_WITHOUT_DLL.zip)   |
+|| Chroma Unity SDK    | [Git](https://github.com/WyvrnOfficial/Unity_ChromaSDK/tree/UNICODE_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/Unity_ChromaSDK/archive/refs/heads/UNICODE_WITHOUT_DLL.zip)   |
 
 * **WYVRN SDK**
 
@@ -192,7 +194,7 @@ Calling the Chroma API in the middle of an update or rendering thread can cause 
 * By Name (Asynchronous):
 	* Methods that reference animations by name have been modified to run in the background and return immediately.
 	* This design avoids any performance impact on the main thread.
-	* Recommendation: It is safe to call these methods directly from the main thread since they won’t block it.
+	* Recommendation: It is safe to call these methods directly from the main thread since they wonï¿½t block it.
  
 `SetEventName Details:`
 
@@ -205,7 +207,7 @@ The following chart measures `SetEventName` calls per second with a unique numbe
  
  `GetAnimation Behavior:`
 
- * GetAnimation returns the ID of a loaded animation immediately or sends the operation to open the animation in the background if it’s not already loaded.
+ * GetAnimation returns the ID of a loaded animation immediately or sends the operation to open the animation in the background if itï¿½s not already loaded.
  
 `Preloading Animations:`
  
