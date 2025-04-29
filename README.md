@@ -2,8 +2,6 @@
 
 See [https://wyvrn.com](https://wyvrn.com) for the latest documentation about the Chroma SDK.
 
-* Note: This version includes Unicode support for paths with special characters. (RECOMMENDED)
-
 ---
 
 # C++ SDK - Chroma Game Sample App
