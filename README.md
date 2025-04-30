@@ -54,16 +54,6 @@ See [https://wyvrn.com](https://wyvrn.com) for the latest documentation about th
 || Chroma Unreal SDK    | [Git](https://github.com/WyvrnOfficial/Unreal_ChromaSDK/tree/UNICODE_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/Unreal_ChromaSDK/archive/refs/heads/UNICODE_WITHOUT_DLL.zip)   |
 || Chroma Unity SDK    | [Git](https://github.com/WyvrnOfficial/Unity_ChromaSDK/tree/UNICODE_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/Unity_ChromaSDK/archive/refs/heads/UNICODE_WITHOUT_DLL.zip)   |
 
-* **WYVRN SDK**
-
-|| Engine | Git Repo | Download Link | Git Repo | Download Link | Git Repo | Download Link |
-|----------|----------|---------|---------------|---------|---------------|---------|---------------|
-| **Encoding** | |  UNICODE |  | ASCII | | MULTI-BYTE | |
-|| WYVRN Design Template    | [Git](https://github.com/WyvrnOfficial/CSDK_WyvrnSDK_GameSample/releases/tag/2.0.1.6)   | [Download](https://github.com/WyvrnOfficial/CSDK_WyvrnSDK_GameSample/releases/download/2.0.1.6/Wyvrn_Design_Template_Developers.xlsx)   | ||||
-|| WYVRN C++ SDK  | [Git](https://github.com/WyvrnOfficial/CSDK_WyvrnSDK_GameSample/tree/UNICODE_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/CSDK_WyvrnSDK_GameSample/archive/refs/heads/UNICODE_WITHOUT_DLL.zip) | [Git](https://github.com/WyvrnOfficial/CSDK_WyvrnSDK_GameSample/tree/ASCII_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/CSDK_WyvrnSDK_GameSample/archive/refs/heads/ASCII_WITHOUT_DLL.zip) | [Git](https://github.com/WyvrnOfficial/CSDK_WyvrnSDK_GameSample/tree/MULTIBYTE_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/CSDK_WyvrnSDK_GameSample/archive/refs/heads/MULTIBYTE_WITHOUT_DLL.zip) |
-|| WYVRN Unreal SDK    | [Git](https://github.com/WyvrnOfficial/Unreal_WyvrnSDK/tree/UNICODE_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/Unreal_WyvrnSDK/archive/refs/heads/UNICODE_WITHOUT_DLL.zip)   |
-|| WYVRN Unity SDK    | [Git](https://github.com/WyvrnOfficial/Unity_WyvrnSDK/tree/UNICODE_WITHOUT_DLL)   | [Download](https://github.com/WyvrnOfficial/Unity_WyvrnSDK/archive/refs/heads/UNICODE_WITHOUT_DLL.zip)   |
-
 <a name="user-privacy"></a>
 
 ## User Privacy
